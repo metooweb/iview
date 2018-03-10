@@ -40,6 +40,7 @@ import Spin from './components/spin';
 import Steps from './components/steps';
 import Switch from './components/switch';
 import Table from './components/table';
+import TablePlus from './components/table-plus';
 import Tabs from './components/tabs';
 import Tag from './components/tag';
 import Timeline from './components/timeline';
@@ -111,6 +112,7 @@ const components = {
     Step: Steps.Step,
     Steps,
     Table,
+	TablePlus,
     Tabs: Tabs,
     TabPane: Tabs.Pane,
     Tag,
